@@ -1,2 +1,2 @@
 # ML
-This is ML end to end project
+This includes Machine Learning concepts
